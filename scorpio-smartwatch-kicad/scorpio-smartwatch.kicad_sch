@@ -3492,9 +3492,644 @@
 			(embedded_fonts no)
 		)
 	)
+	(table
+		(column_count 3)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 24.765 24.765 33.02)
+		(row_heights 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54)
+		(cells
+			(table_cell "PN"
+				(exclude_from_sim no)
+				(at 167.64 26.67 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "3e1e11c3-e949-4be8-844c-3c56e722d6dc")
+			)
+			(table_cell "Standby"
+				(exclude_from_sim no)
+				(at 192.405 26.67 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "bb0cfa86-eb69-4f78-8907-c3be31d6fe56")
+			)
+			(table_cell "Max Typical"
+				(exclude_from_sim no)
+				(at 217.17 26.67 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "8d1c35df-c099-48e9-8463-84834f1f748f")
+			)
+			(table_cell "NRF52840"
+				(exclude_from_sim no)
+				(at 167.64 29.21 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "2c710595-0646-4be2-8b8f-8050f8b98d31")
+			)
+			(table_cell "0.0015 mA"
+				(exclude_from_sim no)
+				(at 192.405 29.21 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "81bde26a-80b4-4856-a094-64f6e2575e9f")
+			)
+			(table_cell "4.8 mA"
+				(exclude_from_sim no)
+				(at 217.17 29.21 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "ad8786ae-2971-4b2d-8cb2-cd31dc75af57")
+			)
+			(table_cell "MAX-M10Q"
+				(exclude_from_sim no)
+				(at 167.64 31.75 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "45b92500-a22e-4dc6-b275-dd36ca189e5b")
+			)
+			(table_cell "-"
+				(exclude_from_sim no)
+				(at 192.405 31.75 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "6455993d-271e-4f63-a659-5eb1594b4891")
+			)
+			(table_cell "10 mA"
+				(exclude_from_sim no)
+				(at 217.17 31.75 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "86ec9ef4-892c-4c7d-855f-063778c9ab35")
+			)
+			(table_cell "LIS2MDL"
+				(exclude_from_sim no)
+				(at 167.64 34.29 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "283684c8-cd5b-4364-af5d-21c314c3caaa")
+			)
+			(table_cell "0.0015 mA"
+				(exclude_from_sim no)
+				(at 192.405 34.29 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "4d43583f-7846-46fe-ad46-364b4f005c5d")
+			)
+			(table_cell "0.2 mA"
+				(exclude_from_sim no)
+				(at 217.17 34.29 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "b18a10f4-24d0-4386-ad69-7b3ed02690ce")
+			)
+			(table_cell "LSM6DSV80X"
+				(exclude_from_sim no)
+				(at 167.64 36.83 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "5b485953-b5e2-4b01-a3ac-d065f2403100")
+			)
+			(table_cell "0.0029 mA"
+				(exclude_from_sim no)
+				(at 192.405 36.83 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "109c3112-3e75-4593-999e-a68488f89cd8")
+			)
+			(table_cell "0.67 mA"
+				(exclude_from_sim no)
+				(at 217.17 36.83 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "ba486a15-b005-445b-b707-05a634035492")
+			)
+			(table_cell "MAX30102"
+				(exclude_from_sim no)
+				(at 167.64 39.37 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "a0f37050-9c25-4dc0-b50b-1b8b1b5b0c78")
+			)
+			(table_cell "0.001 mA"
+				(exclude_from_sim no)
+				(at 192.405 39.37 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "2d31d333-425e-42b9-90d5-1ea0ce47ef88")
+			)
+			(table_cell "0.6 mA"
+				(exclude_from_sim no)
+				(at 217.17 39.37 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "54eb910a-c4c8-458a-a853-e57d0c4ec690")
+			)
+			(table_cell "ZDSD16G"
+				(exclude_from_sim no)
+				(at 167.64 41.91 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "f467aa9e-c914-40e9-9953-b22119f0093c")
+			)
+			(table_cell "0.2 mA"
+				(exclude_from_sim no)
+				(at 192.405 41.91 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "99afb969-a05f-4e2f-b255-664d491fb274")
+			)
+			(table_cell "35 mA"
+				(exclude_from_sim no)
+				(at 217.17 41.91 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "fc9d5dd9-c020-46c2-864b-ef67b9cbc80c")
+			)
+			(table_cell "[display placeholder]"
+				(exclude_from_sim no)
+				(at 167.64 44.45 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "f8f81608-4ff4-4180-8b54-c4eb8238d3b4")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 192.405 44.45 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "c3d06c60-1315-40ac-959c-a1167379c98c")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 217.17 44.45 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "f744f984-fc78-46d4-96cb-3d913515c8fb")
+			)
+			(table_cell "Battery "
+				(exclude_from_sim no)
+				(at 167.64 46.99 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "64bedc4f-0ce8-47d8-8b70-fb3c094b5aa4")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 192.405 46.99 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "693286be-15c7-4628-b2b9-6d8fbebab207")
+			)
+			(table_cell "37mm - 585 mAh - 4.3mm"
+				(exclude_from_sim no)
+				(at 217.17 46.99 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "0c4fa945-3c90-475b-8eac-06ceb00d0884")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 167.64 49.53 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "261c5888-011f-4445-8f7e-4397ffbc2190")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 192.405 49.53 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "299167eb-135c-43c5-89f9-68a54af1052b")
+			)
+			(table_cell "36mm - 540 mAhb - 4.4mm"
+				(exclude_from_sim no)
+				(at 217.17 49.53 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "4e756924-6720-4a79-bf7a-681e4ca7c964")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 167.64 52.07 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "4ae3cbe6-5025-4bd0-87a4-581a0e3877fd")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 192.405 52.07 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "a55aa69a-1c9f-436d-9651-b93453eddad5")
+			)
+			(table_cell "35mm - 605 mAh - 5.5mm"
+				(exclude_from_sim no)
+				(at 217.17 52.07 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "fafc03ce-10ad-4251-a43e-353144f81617")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 167.64 54.61 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "1b5cfae7-b7f5-49d8-a6a6-4b4aa8689992")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 192.405 54.61 0)
+				(size 24.765 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "601cc853-3be9-4876-8fc6-7f62d4b3dd15")
+			)
+			(table_cell "35mm - 630 mAh - 6.0mm"
+				(exclude_from_sim no)
+				(at 217.17 54.61 0)
+				(size 33.02 2.54)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+				(uuid "03e3ff7d-ccff-4e57-bc5c-ef0d639f1d73")
+			)
+		)
+	)
 	(symbol
 		(lib_id "MCU_Nordic:nRF52840")
-		(at 77.47 104.14 0)
+		(at 54.61 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3503,7 +4138,7 @@
 		(fields_autoplaced yes)
 		(uuid "0ea08174-96b0-43d9-8ab7-e78460f6af2d")
 		(property "Reference" "U1"
-			(at 82.1533 172.72 0)
+			(at 59.2933 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3512,7 +4147,7 @@
 			)
 		)
 		(property "Value" "nRF52840"
-			(at 82.1533 175.26 0)
+			(at 59.2933 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3521,7 +4156,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:Nordic_AQFN-73-1EP_7x7mm_P0.5mm"
-			(at 77.47 177.8 0)
+			(at 54.61 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3530,7 +4165,7 @@
 			)
 		)
 		(property "Datasheet" "http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.nrf52/dita/nrf52/chips/nrf52840.html"
-			(at 60.96 55.88 0)
+			(at 38.1 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3539,7 +4174,7 @@
 			)
 		)
 		(property "Description" "Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC, AQFN-73"
-			(at 77.47 104.14 0)
+			(at 54.61 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3780,7 +4415,7 @@
 	)
 	(symbol
 		(lib_id "LSM6DSV80XTR:LSM6DSV80XTR")
-		(at 193.04 90.17 0)
+		(at 97.79 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3789,7 +4424,7 @@
 		(fields_autoplaced yes)
 		(uuid "308a2e7a-382a-486b-8e49-ca1be06396ac")
 		(property "Reference" "IC1"
-			(at 215.5033 74.93 0)
+			(at 120.2533 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3798,7 +4433,7 @@
 			)
 		)
 		(property "Value" "LSM6DSV80XTR"
-			(at 215.5033 77.47 0)
+			(at 120.2533 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3807,7 +4442,7 @@
 			)
 		)
 		(property "Footprint" "LSM6DSV16BXTR"
-			(at 224.79 177.47 0)
+			(at 129.54 225.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3817,7 +4452,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lsm6dsv80x.pdf"
-			(at 224.79 277.47 0)
+			(at 129.54 325.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3827,7 +4462,7 @@
 			)
 		)
 		(property "Description" "6-axis IMU (inertial measurement unit) with high-g accelerometer, embedded AI, and sensor fusion for wearables and sport trackers"
-			(at 193.04 90.17 0)
+			(at 97.79 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3836,7 +4471,7 @@
 			)
 		)
 		(property "Height" "0.74"
-			(at 224.79 477.47 0)
+			(at 129.54 525.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3846,7 +4481,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "STMicroelectronics"
-			(at 224.79 577.47 0)
+			(at 129.54 625.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3856,7 +4491,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "LSM6DSV80XTR"
-			(at 224.79 677.47 0)
+			(at 129.54 725.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3866,7 +4501,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 224.79 777.47 0)
+			(at 129.54 825.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3876,7 +4511,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 224.79 877.47 0)
+			(at 129.54 925.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3886,7 +4521,7 @@
 			)
 		)
 		(property "Arrow Part Number" "LSM6DSV80XTR"
-			(at 224.79 977.47 0)
+			(at 129.54 1025.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3896,7 +4531,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/lsm6dsv80xtr/stmicroelectronics?utm_currency=USD&region=nac"
-			(at 224.79 1077.47 0)
+			(at 129.54 1125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3958,7 +4593,7 @@
 	)
 	(symbol
 		(lib_id "LIS2MDL:LIS2MDL")
-		(at 213.36 50.8 0)
+		(at 118.11 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3967,7 +4602,7 @@
 		(fields_autoplaced yes)
 		(uuid "3546d14a-d3e2-4395-979e-ba0df2f4da59")
 		(property "Reference" "U3"
-			(at 213.36 33.02 0)
+			(at 118.11 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3975,7 +4610,7 @@
 			)
 		)
 		(property "Value" "LIS2MDL"
-			(at 213.36 35.56 0)
+			(at 118.11 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3983,7 +4618,7 @@
 			)
 		)
 		(property "Footprint" "LIS2MDL:PQFN50P200X200X70-12N"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3993,7 +4628,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4002,7 +4637,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4011,7 +4646,7 @@
 			)
 		)
 		(property "MF" "STMicroelectronics"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4021,7 +4656,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.7 mm"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4031,7 +4666,7 @@
 			)
 		)
 		(property "Package" "LGA-12 STMicroelectronics"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4041,7 +4676,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4051,7 +4686,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/LIS2MDL/STMicroelectronics/view-part/?ref=eda"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4061,7 +4696,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4071,7 +4706,7 @@
 			)
 		)
 		(property "PARTREV" "Rev 5"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4081,7 +4716,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LIS2MDL/STMicroelectronics/view-part/?ref=snap"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4091,7 +4726,7 @@
 			)
 		)
 		(property "MP" "LIS2MDL"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4101,7 +4736,7 @@
 			)
 		)
 		(property "Description_1" "Magnetoresistive Sensor X, Y, Z Axis 12-LGA (2x2)"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4111,7 +4746,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4121,7 +4756,7 @@
 			)
 		)
 		(property "MANUFACTURER" "STMicroelectronics"
-			(at 213.36 50.8 0)
+			(at 118.11 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4177,7 +4812,7 @@
 	)
 	(symbol
 		(lib_id "RF_GPS:MIA-M10Q")
-		(at 151.13 67.31 0)
+		(at 118.11 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4186,7 +4821,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc7cb9b2-f09b-4de6-abb6-5dbd286964f5")
 		(property "Reference" "U2"
-			(at 153.2733 95.25 0)
+			(at 120.2533 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4195,7 +4830,7 @@
 			)
 		)
 		(property "Value" "MIA-M10Q"
-			(at 153.2733 97.79 0)
+			(at 120.2533 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4204,7 +4839,7 @@
 			)
 		)
 		(property "Footprint" "Package_LGA:ublox_LGA-53_4.5x4.5mm_Layout9x9_P0.5mm"
-			(at 151.13 67.31 0)
+			(at 118.11 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4213,7 +4848,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.u-blox.com/sites/default/files/documents/MIA-M10Q_DataSheet_UBX-22015849.pdf"
-			(at 151.13 67.31 0)
+			(at 118.11 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4222,7 +4857,7 @@
 			)
 		)
 		(property "Description" "GNSS receiver module (GPS, Galileo, GLONASS, BeiDou), I2C / UART interface, LGA-53 (MIA M-LGA53)"
-			(at 151.13 67.31 0)
+			(at 118.11 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4400,7 +5035,7 @@
 	)
 	(symbol
 		(lib_id "sd-nand-flash:ZDSD16GLGIAG")
-		(at 205.74 132.08 0)
+		(at 110.49 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4409,7 +5044,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5d86752-a453-49f5-8a4f-897cede083a3")
 		(property "Reference" "U4"
-			(at 205.74 120.65 0)
+			(at 110.49 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4417,7 +5052,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 205.74 123.19 0)
+			(at 110.49 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4425,7 +5060,7 @@
 			)
 		)
 		(property "Footprint" "ZDSD16GLGIAG:LGA-8_8x6.2mm_P1.27mm"
-			(at 205.74 132.08 0)
+			(at 110.49 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4434,7 +5069,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C19727141.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=R1hXUwcEFgQLBgBXElNcVgcEFFdfUFJTRVReBV0CRVgxVlNRRFhZU1FeQFZZUjsOAxUeFF5JWBYZEEoBGA4JCwFIFA4DSA%3D%3D"
-			(at 205.74 132.08 0)
+			(at 110.49 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4443,7 +5078,7 @@
 			)
 		)
 		(property "Description" "16 Gbit Nand Flashchip with SPI and SD interface."
-			(at 205.74 132.08 0)
+			(at 110.49 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
